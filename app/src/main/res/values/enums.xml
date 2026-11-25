@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_filter">
+        <item>All</item>
+        <item>Last day</item>
+        <item>Last two days</item>
+        <item>Last week</item>
+        <item>Last two weeks</item>
+    </string-array>
+    <string-array name="sourceValues">
+        <item>Capture</item>
+        <item>Power</item>
+        <item>Periodic</item>
+        <item>UNKNOWN</item>
+    </string-array>
+    <string-array name="pluggedValues">
+        <item>AC</item>
+        <item>USB</item>
+        <item>Wireless</item>
+        <item>UNKNOWN</item>
+    </string-array>
+    <string-array name="statusValues">
+        <item>Charging</item>
+        <item>Discharging</item>
+        <item>Full</item>
+        <item>Not Charging</item>
+        <item>UNKNOWN</item>
+    </string-array>
+    <string-array name="workinfo_stateValues">
+        <item>Enqueued</item>
+        <item>Running</item>
+        <item>Succeeded</item>
+        <item>Failed</item>
+        <item>Blocked</item>
+        <item>Cancelled</item>
+    </string-array>
+    <string name="no_value">NO VALUE</string>
+</resources>

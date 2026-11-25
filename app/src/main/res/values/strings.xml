@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Easy Battery</string>
+    <string name="app_short">Battery</string>
+
+    <string name="title_battery">Battery</string>
+    <string name="title_batteries">Batteries</string>
+    <string name="title_settings">settings</string>
+    <string name="title_capture">Capture</string>
+    <string name="title_create">Create</string>
+    <string name="title_edit">Edit</string>
+    <string name="title_view">View</string>
+    <string name="title_list">List</string>
+    <string name="title_plot">Plot</string>
+
+    <string name="action_battery">battery</string>
+    <string name="action_batteries">batteries</string>
+    <string name="action_settings">settings</string>
+
+    <string name="action_capture">Capture</string>
+    <string name="action_clear">Clear</string>
+    <string name="action_save">Save</string>
+
+    <string name="clear">Clear</string>
+    <string name="database">Database</string>
+    <string name="populate">Populate</string>
+    <string name="populate_now">now</string>
+    <string name="populate_back_5h">-5h</string>
+    <string name="populate_back_12h">-12h</string>
+    <string name="populate_back_day">-1d</string>
+    <string name="populate_back_2days">-2d</string>
+    <string name="period">Period</string>
+    <string name="timestamp">Timestamp</string>
+    <string name="source">Source</string>
+    <string name="status">Status</string>
+    <string name="plugged">Plugged</string>
+    <string name="level">Level</string>
+    <string name="scale">Scale</string>
+    <string name="id">Id</string>
+
+    <string name="repeat">Repeat job</string>
+    <string name="start">Start</string>
+    <string name="cancel">Cancel</string>
+    <string name="cancel_all">Cancel All</string>
+    <string name="workinfo_state">State</string>
+    <string name="share">Share</string>
+    <string name="share_parameters">Share parameters</string>
+    <string name="email">Email</string>
+    <string name="subject">Subject</string>
+    <string name="subject_hint">Field is not validated, between 5 and 12 signs</string>
+    <string name="email_hint">Field is not validated, use a valid email</string>
+    <string name="empty_batteries">I am sorry but no record to display during this time frame</string>
+    <string name="workinfo_no_value">No workinfo yet</string>
+
+</resources>
